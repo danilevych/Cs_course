@@ -34,7 +34,7 @@ namespace HomeWork1
 
             double pi = Math.PI;
             double length = 2 * pi * r;
-            double area = pi * Math.Pow(r, r);
+            double area = pi * Math.Pow(r, 2);
             //double volume = 4/3 * pi * r * r * r;
             double volume = 4 / 3 * pi * Math.Pow(r, 3);
 
