@@ -36,7 +36,7 @@ namespace HomeWork1
             double length = 2 * pi * r;
             double area = pi * Math.Pow(r, 2);
             //double volume = 4/3 * pi * r * r * r;
-            double volume = 4 / 3 * pi * Math.Pow(r, 3);
+            double volume = 4.0 / 3.0 * pi * Math.Pow(r, 3);
 
             Console.WriteLine($"Results:\n" +
                 $"Radius: {r}\n" +
