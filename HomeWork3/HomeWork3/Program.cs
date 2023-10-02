@@ -1,11 +1,10 @@
 ﻿using System;
-//using System.Linq;
 
-    namespace Homework3
+namespace Homework3
 {
     public class Program
     {
-        enum Mounth
+        enum Mounthf
         {
             January = 1,
             February = 2,
@@ -86,10 +85,10 @@
                 product *= i;
             }
 
-           int result = flag ? product : sum;
-           Console.WriteLine(result);
+            int result = flag ? product : sum;
+            Console.WriteLine(result);
 
-           Console.WriteLine("________________________________");
+            Console.WriteLine("________________________________");
 
         }
     }
