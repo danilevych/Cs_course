@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork5
 {
-    internal class Programmer : IDeveloper
+    internal class Programmer : IDeveloper, IComparable<IDeveloper>
     {
         string language;
 
@@ -22,8 +22,6 @@ namespace HomeWork5
 
         public void Create() { Console.WriteLine("Create some project"); }
         public void Destroy() { Console.WriteLine("Destroy some project"); }
-
-        public int CompareTo(IDeveloper other) { return String.Compare(this.Tool, other.Tool); }
 
     }
 }

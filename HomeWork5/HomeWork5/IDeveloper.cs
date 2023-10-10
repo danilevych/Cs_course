@@ -12,5 +12,7 @@ namespace HomeWork5
 
         public void Create();
         public void Destroy();
+
+        public int ICompareble<IDeveloper>.CompareTo(IDeveloper other) { return String.Compare(this.Tool, other.Tool); }
     }
 }
