@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeWork5
 {
-    internal class Builder : IDeveloper, IComparable<IDeveloper>
+    internal class Builder : IDeveloper
     {
         private string tool;
         public string Tool
@@ -21,5 +21,6 @@ namespace HomeWork5
 
         public void Create() { Console.WriteLine("Create something"); }
         public void Destroy() { Console.WriteLine("Destroy something"); }
+
     }
 }

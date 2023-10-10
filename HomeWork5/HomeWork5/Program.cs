@@ -48,10 +48,6 @@ namespace HomeWork5
                 Console.WriteLine(developers);
             }
 
-            Console.WriteLine(developer.CompareTo(builder));
-            Console.WriteLine(developer.CompareTo(developer));
-            Console.WriteLine(builder.CompareTo(developer));
-
             Console.WriteLine("____________");
 
             Dictionary<uint, string> dict = new Dictionary<uint, string>();
