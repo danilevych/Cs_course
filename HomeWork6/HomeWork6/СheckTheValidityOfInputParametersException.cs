@@ -7,8 +7,8 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace HomeWork6
 {
-    class СheckTheValidityOfInputParametersExeption : ApplicationException
+    class СheckTheValidityOfInputParametersException : ApplicationException
     {
-        public СheckTheValidityOfInputParametersExeption(string message) : base(message) { }
+        public СheckTheValidityOfInputParametersException(string message) : base(message) { }
     }
 }

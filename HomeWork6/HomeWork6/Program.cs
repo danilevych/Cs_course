@@ -9,12 +9,12 @@ namespace HomeWork6
     {
         public static List<int> ReadNumber(int start, int end)
         {
-            const int capasity = 3;
+            const int capacity = 3;
 
             List<int> sequenceOfNumbers = new List<int>();
 
 
-            for (int i = 0; i < capasity; i++)
+            for (int i = 0; i < capacity; i++)
             {
                 try
                 {
@@ -25,7 +25,7 @@ namespace HomeWork6
                     ArgumentOutOfRangeException.ThrowIfLessThanOrEqual(number, start);
 
                     start = number;
-                    
+
                     sequenceOfNumbers.Add(number);
                 }
                 catch (ArgumentOutOfRangeException ex)
@@ -58,11 +58,11 @@ namespace HomeWork6
 
                 if (end < start + 10)
                 {
-                    throw new СheckTheValidityOfInputParametersExeption("The START must be less than the END by at least 10");
+                    throw new СheckTheValidityOfInputParametersException("The START must be less than the END by at least 10");
                 }
                 ReadNumber(start, end);
             }
-            catch (СheckTheValidityOfInputParametersExeption ex)
+            catch (СheckTheValidityOfInputParametersException ex)
             {
                 Console.WriteLine(ex.Message);
             }
@@ -70,10 +70,10 @@ namespace HomeWork6
             {
                 Console.WriteLine(ex.Message);
             }
-            catch (Exception ex )
-            { 
-                Console.WriteLine("Uxpected exception");
-                Console.WriteLine(ex.Message); 
+            catch (Exception ex)
+            {
+                Console.WriteLine("Unxpected exception");
+                Console.WriteLine(ex.Message);
             }
         }
     }
