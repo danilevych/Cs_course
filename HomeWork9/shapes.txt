@@ -1,0 +1,8 @@
+a_Circle
+b_Circle
+c_Circle
+d_Circle
+B_Square
+ This name of Shape contains "a" - a_Circle
+ This name of Shape contains "a" - A_Square
+ This name of Shape contains "a" - B_Square

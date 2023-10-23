@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\bin\Debug\net8.0\HomeWork9B.exe
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\bin\Debug\net8.0\HomeWork9B.deps.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\bin\Debug\net8.0\HomeWork9B.runtimeconfig.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\bin\Debug\net8.0\HomeWork9B.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\bin\Debug\net8.0\HomeWork9B.pdb
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.sourcelink.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\refint\HomeWork9B.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.pdb
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\HomeWork9B.genruntimeconfig.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\PartB\HomeWork9B\HomeWork9B\obj\Debug\net8.0\ref\HomeWork9B.dll

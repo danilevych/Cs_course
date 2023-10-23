@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.sourcelink.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\bin\Debug\net8.0\HomeWork9.exe
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\bin\Debug\net8.0\HomeWork9.deps.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\bin\Debug\net8.0\HomeWork9.runtimeconfig.json
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\bin\Debug\net8.0\HomeWork9.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\bin\Debug\net8.0\HomeWork9.pdb
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\refint\HomeWork9.dll
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.pdb
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\HomeWork9.genruntimeconfig.cache
+C:\Users\User\source\repos\Cs_course\HomeWork9\HomeWork9\obj\Debug\net8.0\ref\HomeWork9.dll
