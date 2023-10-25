@@ -39,7 +39,7 @@ namespace HomeWork10.Tests
 
             double actual = triangle.Square();
 
-            Assert.AreEqual(6.0, actual);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod]
